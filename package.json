@@ -1,0 +1,30 @@
+{
+  "name": "interacting-particles",
+  "version": "0.0.0",
+  "description": "Visual Simulation of Interacting Particles",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storrdev/interacting-particles.git"
+  },
+  "keywords": [
+    "visualization",
+    "particles",
+    "interacting"
+  ],
+  "author": "Stephen Orr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storrdev/interacting-particles/issues"
+  },
+  "homepage": "https://github.com/storrdev/interacting-particles",
+  "devDependencies": {
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
